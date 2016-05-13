@@ -6,6 +6,8 @@
 cnf
 fof
 include
+tff
+thf
 /C2"Objects" STYLE_OPERATOR
 /C3"Methods and Properties" STYLE_METHOD
 axiom
